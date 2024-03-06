@@ -1,0 +1,30 @@
+.bg-dark {
+  font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
+  color: #e98208;
+  height: 100vh;
+  letter-spacing: 7px;
+}
+.text-center {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  height: 100%;
+}
+
+.welcome {
+  font-size: 50px;
+}
+
+img {
+  width: 200px;
+}
+
+.clock {
+  font-size: 60px;
+  letter-spacing: 7px;
+}
+
+.description {
+  font-size: 40px;
+}
